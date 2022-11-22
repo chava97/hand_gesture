@@ -1,0 +1,16 @@
+sudo apt-get install -y python3-skimage
+pip install sklearn
+pip install scipy
+pip install tensorflow
+pip install comtypes
+pip install comtypes
+pip install gpib-ctypes
+pip install python-math
+pip install pycaw
+pip install mediapipe
+pip install opencv-contrib-python
+pip install caer
+
+
+
+
